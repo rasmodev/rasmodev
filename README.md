@@ -1,6 +1,6 @@
 ---
 - 👋 Hi, I’m **Rasmo Wanyama**
-- 👀 I’m passionate about exploring the world of data, specifically in the fields of **Data Analytics, Data Science, and Machine Learning**.
+- 👀 I’m passionate about exploring the world of data, specifically in the fields of **Data Analytics, Data Science,** and **Machine Learning**.
 - 🌱 I have successfully completed the **Azubi Africa Data Analytics program** and the **Udacity AI Programming with Python Nanodegree program**, expanding my knowledge and skills in Data Analytics and Data Science.
 - 🌱 I am currently pursuing my **Master of Science in Data Science and Analytics** at **Strathmore University**.
 - 💞️ I’m interested in collaborating with like-minded individuals and organizations who share a similar passion for data-driven insights and innovation.
